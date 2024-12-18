@@ -6,10 +6,15 @@ Atividades feitas ao decorrer da matéria de Algoritmo e estrutura de dados
 Estruturas de Dados Clássicas:
 
 -Pilhas: Operações básicas (push, pop, peek) e aplicações;
+
 -Filas: Implementações com estrutura FIFO e suas aplicações;
+
 -Listas Encadeadas: Implementação e manipulação de nós e elementos;
+
 -Árvores: Estruturas hierárquicas, árvores binárias, árvores de busca;
+
 -Árvores Balanceadas: AVL, B-trees e suas características;
+
 -Tabelas Hash: Estruturas de espalhamento e busca eficiente.
 
 Operações e Algoritmos:
